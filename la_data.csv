@@ -1,0 +1,317 @@
+Local Authority District code (2019),Local Authority District name (2019),Profile,Rural-urban classification,Deprivation gap (percentage points),Deprivation gap %,Deprivation gap ranking,Moran's I,Moran's I ranking,Income deprivation rate,Income deprivation %,Income deprivation rate ranking,Income deprivation rate quintile,% of households with 3 or more children ,School pupils,School attendance %,Schools total spending £,School spend per pupil £,School Free School Meal %
+E07000223,Adur,n-shape,Urban with City and Town,21.70%,21.7,233,0.17,234,10.80%,10.8,158,3,10,37437,76,307104,8.2,28.7
+E07000026,Allerdale,Flat,Mainly Rural (rural including hub towns >=80%) ,36.60%,36.6,95,0.29,157,12.10%,12.1,130,3,16,40461,69,869572,21.49,43.6
+E07000032,Amber Valley,n-shape,Urban with Minor Conurbation,32.90%,32.9,121,0.29,157,10.90%,10.9,153,3,6,22981,44,652505,28.39,39.9
+E07000224,Arun,n-shape,Urban with City and Town,28.70%,28.7,164,0.31,139,10.40%,10.4,171,3,25,34449,64,437529,12.7,35.7
+E07000170,Ashfield,More income deprived,Urban with City and Town,36.00%,36,98,0.15,246,15.20%,15.2,72,2,11,9366,50,770050,82.22,43
+E07000105,Ashford,n-shape,Urban with Significant Rural (rural including hub towns 26-49%),29.10%,29.1,160,0.34,116,11.00%,11,150,3,26,38834,71,613225,15.79,36.1
+E07000004,Aylesbury Vale,Less income deprived,Largely Rural (rural including hub towns 50-79%) ,19.60%,19.6,264,0.47,55,6.70%,6.7,272,5,22,38433,56,609848,15.87,26.6
+E07000200,Babergh,Less income deprived,Mainly Rural (rural including hub towns >=80%) ,16.90%,16.9,280,0.17,234,8.00%,8,232,4,21,48694,53,146570,3.01,23.9
+E09000002,Barking and Dagenham,More income deprived,Urban with Major Conurbation,25.40%,25.4,195,0.27,175,19.40%,19.4,20,1,21,36548,89,326135,8.92,32.4
+E09000003,Barnet,n-shape,Urban with Major Conurbation,31.90%,31.9,132,0.36,105,11.10%,11.1,148,3,15,48851,33,448473,9.18,38.9
+E08000016,Barnsley,More income deprived,Urban with Minor Conurbation,35.60%,35.6,101,0.38,93,16.90%,16.9,43,1,24,24771,51,670527,27.07,42.6
+E07000027,Barrow-in-Furness,Flat,Urban with Significant Rural (rural including hub towns 26-49%),40.70%,40.7,63,0.5,41,15.90%,15.9,57,1,26,37242,44,774669,20.8,47.7
+E07000066,Basildon,Flat,Urban with City and Town,33.40%,33.4,114,0.58,17,13.80%,13.8,95,2,28,41613,55,234155,5.63,40.4
+E07000084,Basingstoke and Deane,Less income deprived,Urban with Significant Rural (rural including hub towns 26-49%),18.70%,18.7,270,0.4,84,7.10%,7.1,262,5,28,12081,55,122694,10.16,25.7
+E07000171,Bassetlaw,Flat,Largely Rural (rural including hub towns 50-79%) ,31.80%,31.8,135,0.23,197,12.20%,12.2,127,3,30,10982,33,231586,21.09,38.8
+E06000022,Bath and North East Somerset,Less income deprived,Urban with Significant Rural (rural including hub towns 26-49%),28.60%,28.6,166,0.21,210,7.90%,7.9,234,4,13,21449,48,251080,11.71,35.6
+E06000055,Bedford,Flat,Urban with Significant Rural (rural including hub towns 26-49%),31.90%,31.9,134,0.36,105,11.40%,11.4,140,3,24,42648,63,569542,13.35,38.9
+E09000004,Bexley,Flat,Urban with Major Conurbation,25.70%,25.7,194,0.57,21,10.60%,10.6,169,3,14,19451,49,228799,11.76,32.7
+E08000025,Birmingham,More income deprived,Urban with Major Conurbation,54.50%,54.5,4,0.56,25,22.20%,22.2,7,1,30,16763,30,265198,15.82,61.5
+E07000129,Blaby,Less income deprived,Urban with City and Town,13.50%,13.5,306,-0.02,305,6.90%,6.9,268,5,25,39000,77,569166,14.59,20.5
+E06000008,Blackburn with Darwen,More income deprived,Urban with City and Town,51.20%,51.2,9,0.42,72,21.20%,21.2,10,1,20,25418,49,832748,32.76,58.2
+E06000009,Blackpool,More income deprived,Urban with City and Town,55.30%,55.3,3,0.55,26,24.70%,24.7,3,1,6,9766,51,400896,41.05,62.3
+E07000033,Bolsover,More income deprived,Urban with Significant Rural (rural including hub towns 26-49%),25.90%,25.9,191,0.13,255,14.70%,14.7,78,2,8,19094,54,724295,37.93,32.9
+E08000001,Bolton,More income deprived,Urban with Major Conurbation,45.60%,45.6,30,0.54,31,18.60%,18.6,28,1,12,36048,31,797031,22.11,52.6
+E07000136,Boston,n-shape,Urban with Significant Rural (rural including hub towns 26-49%),26.50%,26.5,184,0,301,12.80%,12.8,112,2,19,45546,84,390264,8.57,33.5
+E06000058,"Bournemouth, Christchurch and Poole",n-shape,N/A,30.40%,30.4,144,0.4,84,11.20%,11.2,145,3,20,24165,44,429976,17.79,37.4
+E06000036,Bracknell Forest,Less income deprived,Urban with City and Town,13.20%,13.2,309,0.42,72,6.80%,6.8,269,5,19,9916,69,755346,76.17,20.2
+E08000032,Bradford,More income deprived,Urban with Major Conurbation,45.40%,45.4,34,0.61,10,18.90%,18.9,27,1,27,32154,94,694474,21.6,52.4
+E07000067,Braintree,n-shape,Largely Rural (rural including hub towns 50-79%) ,19.50%,19.5,265,0.15,246,9.20%,9.2,202,4,30,28431,74,830413,29.21,26.5
+E07000143,Breckland,n-shape,Mainly Rural (rural including hub towns >=80%) ,20.70%,20.7,250,0.18,224,10.00%,10,181,3,18,48811,42,721511,14.78,27.7
+E09000005,Brent,More income deprived,Urban with Major Conurbation,32.40%,32.4,126,0.55,26,15.50%,15.5,65,2,16,17832,77,156393,8.77,39.4
+E07000068,Brentwood,Less income deprived,Urban with Significant Rural (rural including hub towns 26-49%),15.90%,15.9,290,0.05,285,6.40%,6.4,281,5,15,34990,100,515484,14.73,22.9
+E06000043,Brighton and Hove,n-shape,Urban with City and Town,38.20%,38.2,79,0.33,128,12.30%,12.3,123,2,13,38261,54,909205,23.76,45.2
+E06000023,"Bristol, City of",Flat,Urban with City and Town,42.80%,42.8,51,0.57,21,14.10%,14.1,89,2,21,49628,77,692367,13.95,49.8
+E07000144,Broadland,Less income deprived,Urban with Significant Rural (rural including hub towns 26-49%),12.90%,12.9,310,0.01,299,7.20%,7.2,259,5,10,30305,90,204000,6.73,19.9
+E09000006,Bromley,Less income deprived,Urban with Major Conurbation,29.10%,29.1,160,0.5,41,9.10%,9.1,205,4,23,25801,63,695944,26.97,36.1
+E07000234,Bromsgrove,Less income deprived,Urban with City and Town,21.70%,21.7,232,0.11,263,7.30%,7.3,254,5,16,49387,64,196335,3.98,28.7
+E07000095,Broxbourne,n-shape,Urban with Major Conurbation,24.20%,24.2,206,0.22,203,10.80%,10.8,158,3,30,43062,47,937911,21.78,31.2
+E07000172,Broxtowe,Flat,Urban with Minor Conurbation,29.70%,29.7,155,0.24,193,9.70%,9.7,189,4,22,18693,41,974597,52.14,36.7
+E07000117,Burnley,More income deprived,Urban with City and Town,44.30%,44.3,41,0.45,59,20.30%,20.3,13,1,30,33566,54,743614,22.15,51.3
+E08000002,Bury,Flat,Urban with Major Conurbation,52.50%,52.5,5,0.33,128,14.50%,14.5,80,2,15,27784,31,390717,14.06,59.5
+E08000033,Calderdale,Flat,Urban with Major Conurbation,43.70%,43.7,45,0.48,50,14.90%,14.9,74,2,30,28933,89,944901,32.66,50.7
+E07000008,Cambridge,Less income deprived,Urban with City and Town,23.00%,23,220,0.3,148,7.70%,7.7,244,4,23,26277,56,365085,13.89,30
+E09000007,Camden,Flat,Urban with Major Conurbation,28.30%,28.3,171,0.35,110,14.10%,14.1,89,2,24,46643,66,124926,2.68,35.3
+E07000192,Cannock Chase,n-shape,Urban with Significant Rural (rural including hub towns 26-49%),32.70%,32.7,125,0.21,210,12.70%,12.7,113,2,10,25013,73,516001,20.63,39.7
+E07000106,Canterbury,n-shape,Urban with City and Town,24.80%,24.8,201,0.17,234,10.00%,10,181,3,28,33684,40,694603,20.62,31.8
+E07000028,Carlisle,Flat,Urban with Significant Rural (rural including hub towns 26-49%),32.10%,32.1,128,0.26,179,11.60%,11.6,139,3,24,38742,39,222711,5.75,39.1
+E07000069,Castle Point,n-shape,Urban with City and Town,33.90%,33.9,111,0.33,128,10.70%,10.7,164,3,8,48087,72,773342,16.08,40.9
+E06000056,Central Bedfordshire,Less income deprived,Largely Rural (rural including hub towns 50-79%) ,24.80%,24.8,202,0.23,197,7.70%,7.7,244,4,21,47800,47,980525,20.51,31.8
+E07000130,Charnwood,Less income deprived,Urban with City and Town,36.80%,36.8,92,0.25,188,8.40%,8.4,221,4,11,41512,87,814117,19.61,43.8
+E07000070,Chelmsford,Less income deprived,Urban with City and Town,26.40%,26.4,185,0.13,255,7.70%,7.7,244,4,22,9905,71,258778,26.13,33.4
+E07000078,Cheltenham,Less income deprived,Urban with City and Town,28.60%,28.6,166,0.35,110,9.10%,9.1,205,4,14,36861,49,374255,10.15,35.6
+E07000177,Cherwell,Less income deprived,Urban with Significant Rural (rural including hub towns 26-49%),21.50%,21.5,240,0.41,77,7.60%,7.6,249,4,17,31885,93,480104,15.06,28.5
+E06000049,Cheshire East,Less income deprived,Urban with Significant Rural (rural including hub towns 26-49%),34.60%,34.6,106,0.28,171,8.30%,8.3,225,4,15,23301,96,404125,17.34,41.6
+E06000050,Cheshire West and Chester,Flat,Urban with Significant Rural (rural including hub towns 26-49%),39.50%,39.5,69,0.38,93,10.80%,10.8,158,3,11,43202,57,192437,4.45,46.5
+E07000034,Chesterfield,More income deprived,Urban with City and Town,35.70%,35.7,100,0.26,179,15.30%,15.3,69,2,11,7657,63,407635,53.24,42.7
+E07000225,Chichester,Less income deprived,Largely Rural (rural including hub towns 50-79%) ,17.40%,17.4,278,0.22,203,7.90%,7.9,234,4,29,30237,33,610967,20.21,24.4
+E07000005,Chiltern,Less income deprived,Urban with Significant Rural (rural including hub towns 26-49%),21.60%,21.6,237,0.29,157,5.30%,5.3,312,5,8,36468,93,918539,25.19,28.6
+E07000118,Chorley,Flat,Urban with Significant Rural (rural including hub towns 26-49%),24.70%,24.7,203,0.34,116,10.20%,10.2,176,3,9,6209,63,503039,81.02,31.7
+E09000001,City of London,Less income deprived,Urban with Major Conurbation,20.40%,20.4,255,-0.15,316,6.50%,6.5,280,5,23,44815,36,511300,11.41,27.4
+E07000071,Colchester,n-shape,Urban with Significant Rural (rural including hub towns 26-49%),28.70%,28.7,164,0.34,116,9.90%,9.9,184,3,12,40520,80,572204,14.12,35.7
+E07000029,Copeland,Flat,Mainly Rural (rural including hub towns >=80%) ,38.50%,38.5,76,0.19,215,13.00%,13,107,2,7,28185,43,296424,10.52,45.5
+E07000150,Corby,Flat,Urban with City and Town,33.50%,33.5,113,0.26,179,13.60%,13.6,97,2,8,41034,68,671195,16.36,40.5
+E06000052,Cornwall,n-shape,Mainly Rural (rural including hub towns >=80%) ,40.40%,40.4,64,0.24,193,13.00%,13,107,2,27,35322,55,497317,14.08,47.4
+E07000079,Cotswold,Less income deprived,Mainly Rural (rural including hub towns >=80%) ,14.50%,14.5,299,0.12,259,6.40%,6.4,281,5,16,18440,89,328836,17.83,21.5
+E06000047,County Durham,More income deprived,Largely Rural (rural including hub towns 50-79%) ,49.80%,49.8,13,0.3,148,16.50%,16.5,49,1,22,44316,82,253098,5.71,56.8
+E08000026,Coventry,Flat,Urban with City and Town,47.00%,47,23,0.52,36,15.40%,15.4,68,2,13,38869,83,904581,23.27,54
+E07000163,Craven,Less income deprived,Mainly Rural (rural including hub towns >=80%) ,21.60%,21.6,237,0.09,275,6.70%,6.7,272,5,25,32323,51,979434,30.3,28.6
+E07000226,Crawley,n-shape,Urban with City and Town,26.30%,26.3,188,0.28,171,11.00%,11,150,3,14,20350,36,545143,26.79,33.3
+E09000008,Croydon,Flat,Urban with Major Conurbation,40.10%,40.1,67,0.49,45,13.60%,13.6,97,2,9,38385,53,845404,22.02,47.1
+E07000096,Dacorum,Less income deprived,Urban with Significant Rural (rural including hub towns 26-49%),21.90%,21.9,230,0.43,64,8.50%,8.5,219,4,15,16806,47,695392,41.38,28.9
+E06000005,Darlington,Flat,Urban with City and Town,40.30%,40.3,66,0.32,134,15.30%,15.3,69,2,6,29758,87,811787,27.28,47.3
+E07000107,Dartford,Less income deprived,Urban with Major Conurbation,28.10%,28.1,174,0.34,116,9.50%,9.5,195,4,10,39112,65,100624,2.57,35.1
+E07000151,Daventry,Less income deprived,Mainly Rural (rural including hub towns >=80%) ,23.60%,23.6,214,0.1,270,7.30%,7.3,254,5,28,32086,70,543180,16.93,30.6
+E06000015,Derby,Flat,Urban with City and Town,37.00%,37,91,0.57,21,15.80%,15.8,59,1,7,40367,62,778574,19.29,44
+E07000035,Derbyshire Dales,Less income deprived,Mainly Rural (rural including hub towns >=80%) ,26.40%,26.4,185,0.04,288,6.80%,6.8,269,5,15,11064,69,572529,51.75,33.4
+E08000017,Doncaster,More income deprived,Urban with Minor Conurbation,41.10%,41.1,60,0.34,116,16.60%,16.6,48,1,9,17551,63,833266,47.48,48.1
+E06000059,Dorset,n-shape,N/A,31.10%,31.1,140,0.29,157,8.80%,8.8,212,4,9,16944,48,255073,15.05,38.1
+E07000108,Dover,n-shape,Urban with Significant Rural (rural including hub towns 26-49%),37.60%,37.6,87,0.3,148,13.40%,13.4,102,2,20,19914,51,165463,8.31,44.6
+E08000027,Dudley,Flat,Urban with Major Conurbation,38.80%,38.8,73,0.43,64,15.60%,15.6,60,2,11,32625,80,884807,27.12,45.8
+E09000009,Ealing,n-shape,Urban with Major Conurbation,32.00%,32,131,0.39,88,14.00%,14,93,2,21,20745,58,436780,21.05,39
+E07000009,East Cambridgeshire,Less income deprived,Mainly Rural (rural including hub towns >=80%) ,13.50%,13.5,306,-0.11,315,7.00%,7,265,5,6,40303,92,837820,20.79,20.5
+E07000040,East Devon,Less income deprived,Largely Rural (rural including hub towns 50-79%) ,20.10%,20.1,259,0.09,275,8.10%,8.1,229,4,5,29488,97,492200,16.69,27.1
+E07000085,East Hampshire,Less income deprived,Mainly Rural (rural including hub towns >=80%) ,14.70%,14.7,298,0.1,270,6.00%,6,288,5,11,47535,65,557108,11.72,21.7
+E07000242,East Hertfordshire,Less income deprived,Urban with Significant Rural (rural including hub towns 26-49%),16.70%,16.7,282,0.04,288,6.00%,6,288,5,26,16244,70,659755,40.62,23.7
+E07000137,East Lindsey,More income deprived,Mainly Rural (rural including hub towns >=80%) ,37.30%,37.3,90,0.44,60,16.20%,16.2,53,1,15,12426,48,941151,75.74,44.3
+E07000152,East Northamptonshire,Less income deprived,Largely Rural (rural including hub towns 50-79%) ,22.10%,22.1,226,0.15,246,8.40%,8.4,221,4,15,37874,40,703501,18.57,29.1
+E06000011,East Riding of Yorkshire,Less income deprived,Largely Rural (rural including hub towns 50-79%) ,43.00%,43,47,0.53,33,9.60%,9.6,192,4,8,7652,75,688135,89.93,50
+E07000193,East Staffordshire,Flat,Urban with Significant Rural (rural including hub towns 26-49%),25.80%,25.8,192,0.47,55,10.30%,10.3,174,3,8,24519,45,138002,5.63,32.8
+E07000244,East Suffolk,Flat,N/A,47.40%,47.4,20,0.5,41,11.20%,11.2,145,3,10,29792,70,336643,11.3,54.4
+E07000061,Eastbourne,n-shape,Urban with City and Town,28.30%,28.3,171,0.29,157,14.10%,14.1,89,2,9,46763,60,458970,9.81,35.3
+E07000086,Eastleigh,Less income deprived,Urban with City and Town,20.50%,20.5,253,0.19,215,6.60%,6.6,277,5,24,40039,46,332752,8.31,27.5
+E07000030,Eden,Less income deprived,Mainly Rural (rural including hub towns >=80%) ,12.30%,12.3,313,0.18,224,7.00%,7,265,5,13,49657,86,861561,17.35,19.3
+E07000207,Elmbridge,Less income deprived,Urban with Major Conurbation,21.10%,21.1,246,0.16,239,5.70%,5.7,296,5,8,23536,67,979288,41.61,28.1
+E09000010,Enfield,More income deprived,Urban with Major Conurbation,32.10%,32.1,129,0.66,3,17.10%,17.1,41,1,28,9064,79,274996,30.34,39.1
+E07000072,Epping Forest,n-shape,Urban with Significant Rural (rural including hub towns 26-49%),22.40%,22.4,222,0.14,251,9.10%,9.1,205,4,18,33700,49,302044,8.96,29.4
+E07000208,Epsom and Ewell,Less income deprived,Urban with Major Conurbation,18.30%,18.3,274,0.19,215,5.60%,5.6,301,5,14,47252,89,969944,20.53,25.3
+E07000036,Erewash,Flat,Urban with Minor Conurbation,45.20%,45.2,38,0.27,175,12.00%,12,133,3,16,28285,65,502203,17.76,52.2
+E07000041,Exeter,n-shape,Urban with City and Town,23.90%,23.9,210,0.2,214,9.50%,9.5,195,4,24,44530,100,950771,21.35,30.9
+E07000087,Fareham,Less income deprived,Urban with City and Town,20.10%,20.1,259,0.15,246,5.60%,5.6,301,5,29,28174,71,531046,18.85,27.1
+E07000010,Fenland,n-shape,Largely Rural (rural including hub towns 50-79%) ,24.00%,24,209,0.14,251,14.00%,14,93,2,13,32896,87,993679,30.21,31
+E07000112,Folkestone and Hythe,n-shape,Urban with Significant Rural (rural including hub towns 26-49%),33.40%,33.4,114,0.43,64,14.50%,14.5,80,2,20,13422,57,485027,36.14,40.4
+E07000080,Forest of Dean,n-shape,Mainly Rural (rural including hub towns >=80%) ,27.60%,27.6,180,0.04,288,10.70%,10.7,164,3,17,40635,32,120910,2.98,34.6
+E07000119,Fylde,n-shape,Urban with City and Town,24.20%,24.2,206,0.11,263,9.60%,9.6,192,4,6,39380,45,897109,22.78,31.2
+E08000037,Gateshead,More income deprived,Urban with Major Conurbation,41.90%,41.9,55,0.34,116,16.70%,16.7,47,1,7,25121,96,429961,17.12,48.9
+E07000173,Gedling,n-shape,Urban with Minor Conurbation,33.20%,33.2,118,0.16,239,10.20%,10.2,176,3,13,11415,69,344231,30.16,40.2
+E07000081,Gloucester,Flat,Urban with City and Town,34.50%,34.5,107,0.43,64,12.60%,12.6,115,2,6,42132,72,182100,4.32,41.5
+E07000088,Gosport,n-shape,Urban with City and Town,21.70%,21.7,233,0.34,116,10.70%,10.7,164,3,9,29258,100,120583,4.12,28.7
+E07000109,Gravesham,Flat,Urban with Major Conurbation,29.10%,29.1,160,0.37,101,12.20%,12.2,127,3,29,10456,59,720752,68.93,36.1
+E07000145,Great Yarmouth,More income deprived,Urban with Significant Rural (rural including hub towns 26-49%),43.00%,43,47,0.58,17,18.40%,18.4,32,1,11,25853,59,372460,14.41,50
+E09000011,Greenwich,More income deprived,Urban with Major Conurbation,31.20%,31.2,138,0.34,116,15.90%,15.9,57,1,15,12951,96,793789,61.29,38.2
+E07000209,Guildford,Less income deprived,Urban with City and Town,21.50%,21.5,240,0.17,234,5.70%,5.7,296,5,26,13769,82,535329,38.88,28.5
+E09000012,Hackney,More income deprived,Urban with Major Conurbation,34.30%,34.3,109,0.23,197,19.60%,19.6,18,1,25,21248,55,677868,31.9,41.3
+E06000006,Halton,More income deprived,Urban with City and Town,38.90%,38.9,72,0.31,139,18.50%,18.5,30,1,15,20764,80,456633,21.99,45.9
+E07000164,Hambleton,Less income deprived,Mainly Rural (rural including hub towns >=80%) ,21.50%,21.5,239,0.03,291,6.70%,6.7,272,5,12,16604,57,635742,38.29,28.5
+E09000013,Hammersmith and Fulham,Flat,Urban with Major Conurbation,34.10%,34.1,110,0.29,157,14.20%,14.2,88,2,21,22050,40,336062,15.24,41.1
+E07000131,Harborough,Less income deprived,Mainly Rural (rural including hub towns >=80%) ,16.50%,16.5,285,-0.02,305,5.60%,5.6,301,5,17,12102,96,229924,19,23.5
+E09000014,Haringey,More income deprived,Urban with Major Conurbation,41.10%,41.1,60,0.65,5,17.00%,17,42,1,16,7398,41,761370,102.92,48.1
+E07000073,Harlow,n-shape,Urban with City and Town,20.70%,20.7,250,0.31,139,13.40%,13.4,102,2,8,22434,64,788645,35.15,27.7
+E07000165,Harrogate,Less income deprived,Urban with Significant Rural (rural including hub towns 26-49%),27.90%,27.9,179,0.28,171,6.20%,6.2,287,5,29,28898,68,416218,14.4,34.9
+E09000015,Harrow,n-shape,Urban with Major Conurbation,23.80%,23.8,212,0.26,179,10.90%,10.9,153,3,10,17441,62,391888,22.47,30.8
+E07000089,Hart,Less income deprived,Urban with Significant Rural (rural including hub towns 26-49%),14.50%,14.5,300,-0.07,314,4.20%,4.2,316,5,30,27531,50,527781,19.17,21.5
+E06000001,Hartlepool,More income deprived,Urban with City and Town,44.10%,44.1,43,0.39,88,22.80%,22.8,5,1,23,10330,60,516313,49.98,51.1
+E07000062,Hastings,More income deprived,Urban with City and Town,45.40%,45.4,34,0.27,175,20.20%,20.2,14,1,9,38319,94,381469,9.96,52.4
+E07000090,Havant,Flat,Urban with City and Town,30.30%,30.3,146,0.49,45,12.60%,12.6,115,2,23,24357,70,268791,11.04,37.3
+E09000016,Havering,n-shape,Urban with Major Conurbation,32.30%,32.3,127,0.51,38,10.80%,10.8,158,3,18,43532,63,758332,17.42,39.3
+E06000019,"Herefordshire, County of",n-shape,Largely Rural (rural including hub towns 50-79%) ,25.10%,25.1,199,0.31,139,9.80%,9.8,187,3,16,24020,64,998333,41.56,32.1
+E07000098,Hertsmere,n-shape,Urban with Major Conurbation,31.20%,31.2,138,0.16,239,8.90%,8.9,211,4,16,22298,71,345852,15.51,38.2
+E07000037,High Peak,n-shape,Largely Rural (rural including hub towns 50-79%) ,31.70%,31.7,136,0.18,224,9.70%,9.7,189,4,10,32848,42,362733,11.04,38.7
+E09000017,Hillingdon,n-shape,Urban with Major Conurbation,26.70%,26.7,182,0.48,50,11.40%,11.4,140,3,12,33678,36,256419,7.61,33.7
+E07000132,Hinckley and Bosworth,Less income deprived,Largely Rural (rural including hub towns 50-79%) ,22.40%,22.4,224,0.19,215,8.20%,8.2,227,4,16,16893,60,887058,52.51,29.4
+E07000227,Horsham,Less income deprived,Largely Rural (rural including hub towns 50-79%) ,12.40%,12.4,312,0.03,291,5.60%,5.6,301,5,28,26858,77,317921,11.84,19.4
+E09000018,Hounslow,n-shape,Urban with Major Conurbation,30.10%,30.1,148,0.24,193,12.90%,12.9,110,2,14,44520,94,101807,2.29,37.1
+E07000011,Huntingdonshire,Less income deprived,Mainly Rural (rural including hub towns >=80%) ,20.70%,20.7,249,0.3,148,7.40%,7.4,252,5,14,46697,48,991317,21.23,27.7
+E07000120,Hyndburn,More income deprived,Urban with City and Town,33.80%,33.8,112,0.32,134,18.20%,18.2,33,1,15,36236,89,186464,5.15,40.8
+E07000202,Ipswich,Flat,Urban with City and Town,29.60%,29.6,157,0.25,188,14.10%,14.1,89,2,8,11153,92,638855,57.28,36.6
+E06000046,Isle of Wight,n-shape,Mainly Rural (rural including hub towns >=80%) ,28.20%,28.2,173,0.22,203,13.80%,13.8,95,2,28,27079,90,411101,15.18,35.2
+E09000019,Islington,More income deprived,Urban with Major Conurbation,31.00%,31,141,0.16,239,17.90%,17.9,35,1,14,21567,57,246829,11.44,38
+E09000020,Kensington and Chelsea,Flat,Urban with Major Conurbation,40.10%,40.1,67,0.7,1,11.70%,11.7,136,3,28,17670,36,219633,12.43,47.1
+E07000153,Kettering,Flat,Urban with City and Town,35.40%,35.4,102,0.29,157,11.30%,11.3,143,3,28,11944,86,702283,58.8,42.4
+E07000146,King's Lynn and West Norfolk,n-shape,Largely Rural (rural including hub towns 50-79%) ,30.10%,30.1,150,0.29,157,12.00%,12,133,3,11,43872,47,596274,13.59,37.1
+E06000010,"Kingston upon Hull, City of",More income deprived,Urban with City and Town,47.60%,47.6,18,0.55,26,22.70%,22.7,6,1,22,10763,48,823887,76.55,54.6
+E09000021,Kingston upon Thames,Less income deprived,Urban with Major Conurbation,28.10%,28.1,174,0.16,239,7.80%,7.8,239,4,9,26516,90,170013,6.41,35.1
+E08000034,Kirklees,Flat,Urban with Major Conurbation,37.90%,37.9,82,0.41,77,14.30%,14.3,86,2,14,47519,76,981062,20.65,44.9
+E08000011,Knowsley,More income deprived,Urban with Major Conurbation,50.50%,50.5,10,0.44,60,25.10%,25.1,1,1,26,9217,57,314050,34.07,57.5
+E09000022,Lambeth,More income deprived,Urban with Major Conurbation,28.60%,28.6,166,0.14,251,15.30%,15.3,69,2,24,45276,90,832767,18.39,35.6
+E07000121,Lancaster,Flat,Urban with Significant Rural (rural including hub towns 26-49%),47.60%,47.6,18,0.48,50,12.90%,12.9,110,2,21,17661,99,172109,9.75,54.6
+E08000035,Leeds,Flat,Urban with Major Conurbation,45.00%,45,39,0.59,16,14.30%,14.3,86,2,11,16513,60,693831,42.02,52
+E06000016,Leicester,More income deprived,Urban with City and Town,41.80%,41.8,56,0.39,88,19.60%,19.6,18,1,12,49193,67,672134,13.66,48.8
+E07000063,Lewes,n-shape,Urban with Significant Rural (rural including hub towns 26-49%),22.50%,22.5,221,0.36,105,9.90%,9.9,184,3,16,13061,97,937093,71.75,29.5
+E09000023,Lewisham,More income deprived,Urban with Major Conurbation,29.40%,29.4,158,0.31,139,16.40%,16.4,50,1,15,46543,60,852911,18.33,36.4
+E07000194,Lichfield,Less income deprived,Urban with Significant Rural (rural including hub towns 26-49%),23.10%,23.1,217,0.29,157,8.40%,8.4,221,4,18,38400,66,716385,18.66,30.1
+E07000138,Lincoln,More income deprived,Urban with City and Town,37.60%,37.6,87,0.19,215,15.50%,15.5,65,2,11,21456,41,101253,4.72,44.6
+E08000012,Liverpool,More income deprived,Urban with Major Conurbation,50.40%,50.4,11,0.65,5,23.50%,23.5,4,1,20,35060,66,754150,21.51,57.4
+E06000032,Luton,More income deprived,Urban with City and Town,37.90%,37.9,82,0.41,77,15.50%,15.5,65,2,23,8269,100,395687,47.85,44.9
+E07000110,Maidstone,Less income deprived,Urban with Significant Rural (rural including hub towns 26-49%),29.70%,29.7,155,0.32,134,9.50%,9.5,195,4,26,42292,59,729763,17.26,36.7
+E07000074,Maldon,n-shape,Mainly Rural (rural including hub towns >=80%) ,18.50%,18.5,272,0.05,285,8.60%,8.6,215,4,26,31972,60,243057,7.6,25.5
+E07000235,Malvern Hills,n-shape,Largely Rural (rural including hub towns 50-79%) ,30.30%,30.3,145,0.34,116,9.20%,9.2,202,4,9,46439,49,849233,18.29,37.3
+E08000003,Manchester,More income deprived,Urban with Major Conurbation,47.40%,47.4,20,0.54,31,21.90%,21.9,8,1,28,34244,48,450580,13.16,54.4
+E07000174,Mansfield,More income deprived,Urban with City and Town,44.20%,44.2,42,0.21,210,15.60%,15.6,60,2,8,20076,62,116295,5.79,51.2
+E06000035,Medway,Flat,Urban with City and Town,38.50%,38.5,77,0.39,88,13.40%,13.4,102,2,15,14454,49,537777,37.21,45.5
+E07000133,Melton,Less income deprived,Mainly Rural (rural including hub towns >=80%) ,16.50%,16.5,284,-0.01,303,7.20%,7.2,259,5,30,41748,44,329781,7.9,23.5
+E07000187,Mendip,n-shape,Mainly Rural (rural including hub towns >=80%) ,26.00%,26,190,0.27,175,9.90%,9.9,184,3,29,27655,88,740457,26.77,33
+E09000024,Merton,Flat,Urban with Major Conurbation,28.50%,28.5,169,0.58,17,10.00%,10,181,3,16,18254,96,274842,15.06,35.5
+E07000042,Mid Devon,n-shape,Mainly Rural (rural including hub towns >=80%) ,17.50%,17.5,276,0.13,255,9.30%,9.3,200,4,29,7502,50,226308,30.17,24.5
+E07000203,Mid Suffolk,Less income deprived,Mainly Rural (rural including hub towns >=80%) ,24.40%,24.4,205,0.01,299,7.10%,7.1,262,5,20,30796,45,932613,30.28,31.4
+E07000228,Mid Sussex,Less income deprived,Urban with City and Town,15.50%,15.5,294,0.02,295,5.30%,5.3,312,5,8,17041,89,304804,17.89,22.5
+E06000002,Middlesbrough,More income deprived,Urban with City and Town,55.60%,55.6,2,0.63,7,25.10%,25.1,1,1,20,30941,33,173759,5.62,62.6
+E06000042,Milton Keynes,n-shape,Urban with City and Town,37.70%,37.7,84,0.47,55,11.10%,11.1,148,3,11,14877,77,305221,20.52,44.7
+E07000210,Mole Valley,Less income deprived,Urban with Significant Rural (rural including hub towns 26-49%),21.50%,21.5,240,0.11,263,5.40%,5.4,307,5,12,43043,88,776823,18.05,28.5
+E07000091,New Forest,Less income deprived,Urban with Significant Rural (rural including hub towns 26-49%),23.00%,23,218,0.09,275,7.70%,7.7,244,4,19,21357,42,887448,41.55,30
+E07000175,Newark and Sherwood,Flat,Largely Rural (rural including hub towns 50-79%) ,30.10%,30.1,150,0.26,179,10.90%,10.9,153,3,19,6801,66,763858,112.32,37.1
+E08000021,Newcastle upon Tyne,More income deprived,Urban with Major Conurbation,48.10%,48.1,16,0.57,21,17.80%,17.8,36,1,20,25445,48,501202,19.7,55.1
+E07000195,Newcastle-under-Lyme,Flat,Urban with City and Town,29.80%,29.8,154,0.33,128,10.80%,10.8,158,3,22,9196,63,294313,32,36.8
+E09000025,Newham,More income deprived,Urban with Major Conurbation,28.00%,28,178,0.22,203,16.90%,16.9,43,1,18,17918,69,546019,30.47,35
+E07000043,North Devon,n-shape,Largely Rural (rural including hub towns 50-79%) ,25.80%,25.8,192,0.43,64,11.00%,11,150,3,15,25562,56,279732,10.94,32.8
+E07000038,North East Derbyshire,Flat,Urban with City and Town,30.10%,30.1,150,0.25,188,11.20%,11.2,145,3,8,46025,52,677506,14.72,37.1
+E06000012,North East Lincolnshire,More income deprived,Urban with City and Town,47.10%,47.1,22,0.53,33,19.00%,19,25,1,27,31403,31,445926,14.2,54.1
+E07000099,North Hertfordshire,Less income deprived,Urban with Significant Rural (rural including hub towns 26-49%),21.10%,21.1,246,0.18,224,7.90%,7.9,234,4,29,28437,96,717383,25.23,28.1
+E07000139,North Kesteven,Less income deprived,Mainly Rural (rural including hub towns >=80%) ,21.20%,21.2,245,0.23,197,8.10%,8.1,229,4,27,19183,78,930530,48.51,28.2
+E06000013,North Lincolnshire,n-shape,Urban with Significant Rural (rural including hub towns 26-49%),42.00%,42,54,0.3,148,13.30%,13.3,106,2,19,45860,49,253985,5.54,49
+E07000147,North Norfolk,n-shape,Mainly Rural (rural including hub towns >=80%) ,19.80%,19.8,262,0.03,291,10.60%,10.6,169,3,12,40837,44,815784,19.98,26.8
+E06000024,North Somerset,Less income deprived,Urban with Significant Rural (rural including hub towns 26-49%),46.00%,46,27,0.58,17,10.10%,10.1,178,3,28,26276,42,760643,28.95,53
+E08000022,North Tyneside,Flat,Urban with Major Conurbation,43.80%,43.8,44,0.52,36,14.40%,14.4,84,2,14,39941,48,484267,12.12,50.8
+E07000218,North Warwickshire,n-shape,Mainly Rural (rural including hub towns >=80%) ,26.00%,26,189,0.07,280,9.70%,9.7,189,4,11,42815,46,371159,8.67,33
+E07000134,North West Leicestershire,n-shape,Largely Rural (rural including hub towns 50-79%) ,28.10%,28.1,174,0.1,270,9.00%,9,210,4,17,49504,35,335517,6.78,35.1
+E07000154,Northampton,Flat,Urban with City and Town,38.10%,38.1,80,0.29,157,12.30%,12.3,123,2,26,17620,84,778211,44.17,45.1
+E06000057,Northumberland,Flat,Largely Rural (rural including hub towns 50-79%) ,45.80%,45.8,29,0.41,77,12.60%,12.6,115,2,26,32697,35,415049,12.69,52.8
+E07000148,Norwich,More income deprived,Urban with City and Town,32.90%,32.9,121,0.26,179,16.30%,16.3,52,1,26,13357,49,258643,19.36,39.9
+E06000018,Nottingham,More income deprived,Urban with Minor Conurbation,46.00%,46,27,0.48,50,19.90%,19.9,17,1,6,45731,38,644840,14.1,53
+E07000219,Nuneaton and Bedworth,Flat,Urban with City and Town,34.90%,34.9,105,0.33,128,13.60%,13.6,97,2,15,36183,57,134961,3.73,41.9
+E07000135,Oadby and Wigston,Less income deprived,Urban with City and Town,18.70%,18.7,270,0.35,110,8.60%,8.6,215,4,6,6369,61,648069,101.75,25.7
+E08000004,Oldham,More income deprived,Urban with Major Conurbation,50.40%,50.4,11,0.6,13,19.30%,19.3,21,1,21,21530,53,914216,42.46,57.4
+E07000178,Oxford,Flat,Urban with City and Town,25.30%,25.3,197,0.5,41,9.30%,9.3,200,4,24,29564,43,114657,3.88,32.3
+E07000122,Pendle,More income deprived,Urban with City and Town,31.40%,31.4,137,0.51,38,16.80%,16.8,45,1,29,15336,38,348975,22.76,38.4
+E06000031,Peterborough,More income deprived,Urban with City and Town,33.10%,33.1,119,0.32,134,15.60%,15.6,60,2,18,7970,84,144938,18.19,40.1
+E06000026,Plymouth,Flat,Urban with City and Town,42.10%,42.1,53,0.49,45,14.80%,14.8,76,2,29,19329,59,321316,16.62,49.1
+E06000044,Portsmouth,n-shape,Urban with City and Town,41.80%,41.8,56,0.6,13,13.40%,13.4,102,2,23,20719,94,625460,30.19,48.8
+E07000123,Preston,More income deprived,Urban with City and Town,34.40%,34.4,108,0.55,26,16.20%,16.2,53,1,22,44629,34,400746,8.98,41.4
+E06000038,Reading,n-shape,Urban with City and Town,28.50%,28.5,169,0.38,93,11.40%,11.4,140,3,17,15711,35,976827,62.17,35.5
+E09000026,Redbridge,n-shape,Urban with Major Conurbation,27.40%,27.4,181,0.41,77,12.10%,12.1,130,3,26,26029,36,243672,9.36,34.4
+E06000003,Redcar and Cleveland,More income deprived,Urban with Significant Rural (rural including hub towns 26-49%),51.30%,51.3,8,0.35,110,18.60%,18.6,28,1,29,18605,60,133666,7.18,58.3
+E07000236,Redditch,Flat,Urban with City and Town,31.00%,31,141,0.09,275,12.40%,12.4,122,2,27,16506,95,535597,32.45,38
+E07000211,Reigate and Banstead,Less income deprived,Urban with City and Town,21.70%,21.7,233,0.22,203,6.70%,6.7,272,5,9,26542,76,397436,14.97,28.7
+E07000124,Ribble Valley,Less income deprived,Mainly Rural (rural including hub towns >=80%) ,13.60%,13.6,305,0.23,197,5.70%,5.7,296,5,16,25066,43,695645,27.75,20.6
+E09000027,Richmond upon Thames,Less income deprived,Urban with Major Conurbation,22.40%,22.4,222,0.11,263,6.40%,6.4,281,5,18,13182,56,747693,56.72,29.4
+E07000166,Richmondshire,Less income deprived,Mainly Rural (rural including hub towns >=80%) ,17.50%,17.5,276,0.16,239,5.90%,5.9,291,5,18,39883,35,169391,4.25,24.5
+E08000005,Rochdale,More income deprived,Urban with Major Conurbation,47.60%,47.6,17,0.49,45,20.10%,20.1,15,1,15,11589,70,934471,80.63,54.6
+E07000075,Rochford,Less income deprived,Urban with City and Town,26.40%,26.4,185,0.25,188,7.30%,7.3,254,5,9,40537,43,889058,21.93,33.4
+E07000125,Rossendale,More income deprived,Urban with City and Town,30.20%,30.2,147,0.19,215,14.50%,14.5,80,2,7,40509,38,130034,3.21,37.2
+E07000064,Rother,n-shape,Largely Rural (rural including hub towns 50-79%) ,35.00%,35,104,0.37,101,11.30%,11.3,143,3,6,30722,36,660578,21.5,42
+E08000018,Rotherham,More income deprived,Urban with Minor Conurbation,45.30%,45.3,37,0.42,72,16.80%,16.8,45,1,28,6495,63,657525,101.24,52.3
+E07000220,Rugby,Less income deprived,Urban with City and Town,19.30%,19.3,266,0.21,210,8.70%,8.7,213,4,20,37478,70,273299,7.29,26.3
+E07000212,Runnymede,Less income deprived,Urban with Major Conurbation,16.10%,16.1,288,0.18,224,6.60%,6.6,277,5,29,33340,61,653329,19.6,23.1
+E07000176,Rushcliffe,Less income deprived,Largely Rural (rural including hub towns 50-79%) ,16.40%,16.4,286,-0.05,309,5.90%,5.9,291,5,20,30413,53,632048,20.78,23.4
+E07000092,Rushmoor,Flat,Urban with City and Town,33.40%,33.4,114,0.31,139,10.40%,10.4,171,3,29,31773,55,983303,30.95,40.4
+E06000017,Rutland,Less income deprived,Mainly Rural (rural including hub towns >=80%) ,8.40%,8.4,316,-0.06,311,5.60%,5.6,301,5,12,37404,63,511093,13.66,15.4
+E07000167,Ryedale,Less income deprived,Mainly Rural (rural including hub towns >=80%) ,13.90%,13.9,304,0.1,270,8.20%,8.2,227,4,26,40902,69,970503,23.73,20.9
+E08000006,Salford,More income deprived,Urban with Major Conurbation,45.60%,45.6,30,0.38,93,19.10%,19.1,24,1,23,28261,62,831096,29.41,52.6
+E08000028,Sandwell,More income deprived,Urban with Major Conurbation,44.40%,44.4,40,0.29,157,21.50%,21.5,9,1,5,18681,49,274001,14.67,51.4
+E07000168,Scarborough,n-shape,Urban with Significant Rural (rural including hub towns 26-49%),40.30%,40.3,65,0.3,148,14.50%,14.5,80,2,13,16540,82,227990,13.78,47.3
+E07000188,Sedgemoor,n-shape,Largely Rural (rural including hub towns 50-79%) ,30.10%,30.1,148,0.44,60,11.70%,11.7,136,3,18,43873,98,676653,15.42,37.1
+E08000014,Sefton,Flat,Urban with Major Conurbation,48.80%,48.8,14,0.68,2,16.20%,16.2,53,1,8,48301,41,125537,2.6,55.8
+E07000169,Selby,Less income deprived,Mainly Rural (rural including hub towns >=80%) ,30.60%,30.6,143,0.37,101,7.90%,7.9,234,4,17,34439,45,597806,17.36,37.6
+E07000111,Sevenoaks,Less income deprived,Largely Rural (rural including hub towns 50-79%) ,24.90%,24.9,200,0.33,128,7.50%,7.5,251,4,20,34456,56,330699,9.6,31.9
+E08000019,Sheffield,Flat,Urban with Minor Conurbation,45.40%,45.4,34,0.61,10,15.60%,15.6,60,2,23,10983,50,844095,76.85,52.4
+E06000051,Shropshire,n-shape,Largely Rural (rural including hub towns 50-79%) ,31.90%,31.9,132,0.09,275,9.60%,9.6,192,4,15,37497,39,893139,23.82,38.9
+E06000039,Slough,n-shape,Urban with City and Town,20.30%,20.3,258,0.29,157,12.60%,12.6,115,2,28,13984,51,852114,60.93,27.3
+E08000029,Solihull,Flat,Urban with Major Conurbation,39.00%,39,71,0.66,3,10.80%,10.8,158,3,30,7747,87,702505,90.68,46
+E07000246,Somerset West and Taunton,n-shape,N/A,33.00%,33,120,0.29,157,10.40%,10.4,171,3,23,11452,84,291783,25.48,40
+E07000006,South Bucks,Less income deprived,Urban with Significant Rural (rural including hub towns 26-49%),13.40%,13.4,308,0.02,295,5.70%,5.7,296,5,12,46429,68,668192,14.39,20.4
+E07000012,South Cambridgeshire,Less income deprived,Largely Rural (rural including hub towns 50-79%) ,15.60%,15.6,293,0.02,295,5.60%,5.6,301,5,6,6001,63,513217,85.52,22.6
+E07000039,South Derbyshire,Less income deprived,Urban with Significant Rural (rural including hub towns 26-49%),19.70%,19.7,263,0.25,188,8.30%,8.3,225,4,29,15917,69,561050,35.25,26.7
+E06000025,South Gloucestershire,Less income deprived,Urban with City and Town,22.00%,22,229,0.22,203,7.40%,7.4,252,5,14,40043,37,864553,21.59,29
+E07000044,South Hams,n-shape,Mainly Rural (rural including hub towns >=80%) ,18.40%,18.4,273,0.24,193,8.70%,8.7,213,4,30,49450,33,333424,6.74,25.4
+E07000140,South Holland,n-shape,Largely Rural (rural including hub towns 50-79%) ,19.00%,19,268,0.18,224,10.30%,10.3,174,3,7,48201,100,711087,14.75,26
+E07000141,South Kesteven,Less income deprived,Largely Rural (rural including hub towns 50-79%) ,32.00%,32,130,0.26,179,9.10%,9.1,205,4,20,41136,92,749970,18.23,39
+E07000031,South Lakeland,Less income deprived,Mainly Rural (rural including hub towns >=80%) ,14.30%,14.3,302,0.16,239,6.30%,6.3,285,5,7,7493,64,492731,65.76,21.3
+E07000149,South Norfolk,Less income deprived,Mainly Rural (rural including hub towns >=80%) ,15.00%,15,296,0.05,285,7.80%,7.8,239,4,27,38584,78,315145,8.17,22
+E07000155,South Northamptonshire,Less income deprived,Mainly Rural (rural including hub towns >=80%) ,11.50%,11.5,314,-0.04,308,4.90%,4.9,314,5,8,6839,64,569551,83.28,18.5
+E07000179,South Oxfordshire,Less income deprived,Mainly Rural (rural including hub towns >=80%) ,12.80%,12.8,311,0.18,224,5.40%,5.4,307,5,5,30212,35,155799,5.16,19.8
+E07000126,South Ribble,Less income deprived,Urban with City and Town,32.90%,32.9,121,0.26,179,9.10%,9.1,205,4,24,10688,77,593075,55.49,39.9
+E07000189,South Somerset,n-shape,Largely Rural (rural including hub towns 50-79%) ,23.90%,23.9,210,0.19,215,9.50%,9.5,195,4,15,33946,71,999494,29.44,30.9
+E07000196,South Staffordshire,Less income deprived,Urban with Significant Rural (rural including hub towns 26-49%),21.60%,21.6,236,-0.06,311,8.60%,8.6,215,4,6,9034,70,545678,60.4,28.6
+E08000023,South Tyneside,More income deprived,Urban with Major Conurbation,45.50%,45.5,32,0.31,139,20.60%,20.6,12,1,8,13742,93,234953,17.1,52.5
+E06000045,Southampton,Flat,Urban with City and Town,36.10%,36.1,96,0.38,93,13.50%,13.5,100,2,25,48867,37,541403,11.08,43.1
+E06000033,Southend-on-Sea,Flat,Urban with City and Town,45.50%,45.5,32,0.38,93,14.40%,14.4,84,2,9,39437,97,788708,20,52.5
+E09000028,Southwark,More income deprived,Urban with Major Conurbation,37.40%,37.4,89,0.43,64,16.20%,16.2,53,1,30,20981,66,430138,20.5,44.4
+E07000213,Spelthorne,Less income deprived,Urban with Major Conurbation,14.80%,14.8,297,0.31,139,7.90%,7.9,234,4,12,47680,60,642327,13.47,21.8
+E07000240,St Albans,Less income deprived,Urban with City and Town,18.90%,18.9,269,0.12,259,6.00%,6,288,5,26,27884,95,705229,25.29,25.9
+E08000013,St. Helens,More income deprived,Urban with Major Conurbation,48.80%,48.8,14,0.36,105,18.20%,18.2,33,1,21,14908,86,983126,65.95,55.8
+E07000197,Stafford,Less income deprived,Urban with Significant Rural (rural including hub towns 26-49%),25.40%,25.4,195,0.35,110,7.80%,7.8,239,4,5,34707,79,683961,19.71,32.4
+E07000198,Staffordshire Moorlands,Less income deprived,Largely Rural (rural including hub towns 50-79%) ,22.10%,22.1,226,0.38,93,8.40%,8.4,221,4,23,42269,63,227461,5.38,29.1
+E07000243,Stevenage,n-shape,Urban with City and Town,20.10%,20.1,259,0.1,270,12.20%,12.2,127,3,23,14454,71,137965,9.55,27.1
+E08000007,Stockport,Flat,Urban with Major Conurbation,46.70%,46.7,24,0.46,58,12.00%,12,133,3,16,8599,62,905674,105.32,53.7
+E06000004,Stockton-on-Tees,Flat,Urban with City and Town,52.00%,52,7,0.55,26,16.40%,16.4,50,1,14,49203,78,984490,20.01,59
+E06000021,Stoke-on-Trent,More income deprived,Urban with City and Town,35.20%,35.2,103,0.31,139,19.00%,19,25,1,10,29184,46,572795,19.63,42.2
+E07000221,Stratford-on-Avon,Less income deprived,Mainly Rural (rural including hub towns >=80%) ,14.10%,14.1,303,0.02,295,6.80%,6.8,269,5,13,8576,95,466928,54.45,21.1
+E07000082,Stroud,Less income deprived,Urban with Significant Rural (rural including hub towns 26-49%),19.30%,19.3,266,0.11,263,7.80%,7.8,239,4,13,42275,79,920962,21.79,26.3
+E08000024,Sunderland,More income deprived,Urban with Major Conurbation,46.50%,46.5,26,0.39,88,19.20%,19.2,22,1,29,24271,75,827804,34.11,53.5
+E07000214,Surrey Heath,Less income deprived,Urban with City and Town,16.70%,16.7,282,0.32,134,5.40%,5.4,307,5,19,47324,84,492630,10.41,23.7
+E09000029,Sutton,Less income deprived,Urban with Major Conurbation,28.90%,28.9,163,0.36,105,9.50%,9.5,195,4,28,47937,41,628111,13.1,35.9
+E07000113,Swale,n-shape,Largely Rural (rural including hub towns 50-79%) ,40.70%,40.7,62,0.43,64,14.90%,14.9,74,2,15,21348,90,372725,17.46,47.7
+E06000030,Swindon,Flat,Urban with City and Town,38.30%,38.3,78,0.38,93,10.90%,10.9,153,3,24,9009,98,771016,85.58,45.3
+E08000008,Tameside,More income deprived,Urban with Major Conurbation,42.90%,42.9,49,0.12,259,17.50%,17.5,37,1,9,12334,78,379868,30.8,49.9
+E07000199,Tamworth,Flat,Urban with City and Town,36.10%,36.1,96,0,301,12.60%,12.6,115,2,19,8019,96,352849,44,43.1
+E07000215,Tandridge,Less income deprived,Urban with Significant Rural (rural including hub towns 26-49%),14.50%,14.5,300,0.07,280,6.30%,6.3,285,5,11,48915,57,545108,11.14,21.5
+E07000045,Teignbridge,n-shape,Largely Rural (rural including hub towns 50-79%) ,21.00%,21,248,0.19,215,10.10%,10.1,178,3,29,6265,99,115786,18.48,28
+E06000020,Telford and Wrekin,Flat,Urban with City and Town,38.80%,38.8,73,0.41,77,15.60%,15.6,60,2,16,48054,38,599650,12.48,45.8
+E07000076,Tendring,More income deprived,Largely Rural (rural including hub towns 50-79%) ,52.50%,52.5,6,0.49,45,17.30%,17.3,40,1,6,40378,74,663000,16.42,59.5
+E07000093,Test Valley,Less income deprived,Urban with Significant Rural (rural including hub towns 26-49%),17.10%,17.1,279,0.34,116,6.60%,6.6,277,5,25,9091,94,978756,107.66,24.1
+E07000083,Tewkesbury,Less income deprived,Largely Rural (rural including hub towns 50-79%) ,21.40%,21.4,243,0.06,282,7.70%,7.7,244,4,12,19006,81,206616,10.87,28.4
+E07000114,Thanet,More income deprived,Urban with City and Town,38.70%,38.7,75,0.43,64,18.50%,18.5,30,1,20,33847,61,446367,13.19,45.7
+E07000102,Three Rivers,Less income deprived,Urban with Major Conurbation,25.20%,25.2,198,0.42,72,7.10%,7.1,262,5,22,34475,87,329334,9.55,32.2
+E06000034,Thurrock,n-shape,Urban with Major Conurbation,32.90%,32.9,121,0.4,84,13.00%,13,107,2,5,23952,61,441700,18.44,39.9
+E07000115,Tonbridge and Malling,Less income deprived,Urban with Significant Rural (rural including hub towns 26-49%),23.10%,23.1,216,0.17,234,8.00%,8,232,4,22,8148,94,690905,84.79,30.1
+E06000027,Torbay,More income deprived,Urban with City and Town,35.70%,35.7,99,0.37,101,17.40%,17.4,38,1,10,27367,30,501497,18.32,42.7
+E07000046,Torridge,n-shape,Mainly Rural (rural including hub towns >=80%) ,20.60%,20.6,252,-0.02,305,12.10%,12.1,130,3,24,35154,65,552729,15.72,27.6
+E09000030,Tower Hamlets,More income deprived,Urban with Major Conurbation,29.30%,29.3,159,0.28,171,19.20%,19.2,22,1,14,39303,61,892899,22.72,36.3
+E08000009,Trafford,Flat,Urban with Major Conurbation,37.70%,37.7,84,0.51,38,10.70%,10.7,164,3,10,6662,80,806099,121,44.7
+E07000116,Tunbridge Wells,Less income deprived,Urban with Significant Rural (rural including hub towns 26-49%),21.30%,21.3,244,0.19,215,7.30%,7.3,254,5,12,42811,78,416678,9.73,28.3
+E07000077,Uttlesford,Less income deprived,Mainly Rural (rural including hub towns >=80%) ,11.30%,11.3,315,0.06,282,5.40%,5.4,307,5,13,36810,92,738398,20.06,18.3
+E07000180,Vale of White Horse,Less income deprived,Largely Rural (rural including hub towns 50-79%) ,20.50%,20.5,253,0.15,246,5.70%,5.7,296,5,7,10810,32,975850,90.27,27.5
+E08000036,Wakefield,Flat,Urban with City and Town,38.10%,38.1,80,0.3,148,14.70%,14.7,78,2,29,38871,45,675330,17.37,45.1
+E08000030,Walsall,More income deprived,Urban with Major Conurbation,42.90%,42.9,49,0.6,13,20.00%,20,16,1,30,48785,77,370652,7.6,49.9
+E09000031,Waltham Forest,More income deprived,Urban with Major Conurbation,30.00%,30,153,0.18,224,15.20%,15.2,72,2,23,34064,80,894658,26.26,37
+E09000032,Wandsworth,n-shape,Urban with Major Conurbation,26.60%,26.6,183,0.35,110,10.70%,10.7,164,3,27,19909,90,394935,19.84,33.6
+E06000007,Warrington,Flat,Urban with City and Town,36.70%,36.7,94,0.53,33,10.90%,10.9,153,3,25,44038,70,980641,22.27,43.7
+E07000222,Warwick,Less income deprived,Urban with City and Town,24.60%,24.6,204,0.3,148,7.00%,7,265,5,30,30954,79,738294,23.85,31.6
+E07000103,Watford,n-shape,Urban with Major Conurbation,21.90%,21.9,231,0.14,251,9.20%,9.2,202,4,13,13471,83,701716,52.09,28.9
+E07000216,Waverley,Less income deprived,Largely Rural (rural including hub towns 50-79%) ,16.90%,16.9,281,0.03,291,5.40%,5.4,307,5,30,41661,100,621370,14.91,23.9
+E07000065,Wealden,Less income deprived,Mainly Rural (rural including hub towns >=80%) ,23.70%,23.7,213,0.29,157,7.30%,7.3,254,5,7,6912,51,491866,71.16,30.7
+E07000156,Wellingborough,Flat,Urban with Significant Rural (rural including hub towns 26-49%),33.30%,33.3,117,0.18,224,12.60%,12.6,115,2,27,14934,74,421768,28.24,40.3
+E07000241,Welwyn Hatfield,n-shape,Urban with City and Town,20.40%,20.4,255,0.34,116,8.60%,8.6,215,4,14,43182,85,106405,2.46,27.4
+E06000037,West Berkshire,Less income deprived,Urban with Significant Rural (rural including hub towns 26-49%),22.20%,22.2,225,0.12,259,6.40%,6.4,281,5,18,7207,67,326016,45.24,29.2
+E07000047,West Devon,n-shape,Mainly Rural (rural including hub towns >=80%) ,15.50%,15.5,294,-0.05,309,9.80%,9.8,187,3,21,16756,36,415974,24.83,22.5
+E07000127,West Lancashire,Flat,Urban with Significant Rural (rural including hub towns 26-49%),36.80%,36.8,92,0.63,7,12.30%,12.3,123,2,12,10326,65,571920,55.39,43.8
+E07000142,West Lindsey,n-shape,Mainly Rural (rural including hub towns >=80%) ,43.30%,43.3,46,0.61,10,12.30%,12.3,123,2,10,41047,71,632217,15.4,50.3
+E07000181,West Oxfordshire,Less income deprived,Mainly Rural (rural including hub towns >=80%) ,16.00%,16,289,-0.06,311,5.90%,5.9,291,5,9,24048,70,786683,32.71,23
+E07000245,West Suffolk,Less income deprived,N/A,18.00%,18,275,0.23,197,8.10%,8.1,229,4,8,45899,31,823097,17.93,25
+E09000033,Westminster,Flat,Urban with Major Conurbation,39.10%,39.1,70,0.48,50,13.50%,13.5,100,2,26,35009,66,881911,25.19,46.1
+E08000010,Wigan,Flat,Urban with Major Conurbation,42.60%,42.6,52,0.34,116,14.80%,14.8,76,2,30,28007,98,869632,31.05,49.6
+E06000054,Wiltshire,Less income deprived,Largely Rural (rural including hub towns 50-79%) ,28.10%,28.1,174,0.13,255,7.80%,7.8,239,4,17,30420,99,878899,28.89,35.1
+E07000094,Winchester,Less income deprived,Largely Rural (rural including hub towns 50-79%) ,15.60%,15.6,292,0.18,224,5.80%,5.8,294,5,8,34844,53,775590,22.26,22.6
+E06000040,Windsor and Maidenhead,Less income deprived,Urban with City and Town,15.90%,15.9,290,0.11,263,5.80%,5.8,294,5,9,22673,41,380641,16.79,22.9
+E08000015,Wirral,Flat,Urban with Major Conurbation,56.70%,56.7,1,0.63,7,17.40%,17.4,38,1,16,8247,47,481444,58.38,63.7
+E07000217,Woking,Less income deprived,Urban with Major Conurbation,22.00%,22,228,0.11,263,6.70%,6.7,272,5,9,14015,73,280671,20.03,29
+E06000041,Wokingham,Less income deprived,Urban with City and Town,16.30%,16.3,287,-0.01,303,4.40%,4.4,315,5,25,29898,45,139457,4.66,23.3
+E08000031,Wolverhampton,More income deprived,Urban with Major Conurbation,46.70%,46.7,24,0.41,77,21.10%,21.1,11,1,26,48664,94,774218,15.91,53.7
+E07000237,Worcester,Flat,Urban with City and Town,41.50%,41.5,58,0.44,60,11.70%,11.7,136,3,30,32802,32,724541,22.09,48.5
+E07000229,Worthing,n-shape,Urban with City and Town,23.00%,23,218,0.22,203,10.10%,10.1,178,3,25,7818,40,593555,75.92,30
+E07000238,Wychavon,Less income deprived,Mainly Rural (rural including hub towns >=80%) ,24.00%,24,208,0.3,148,8.50%,8.5,219,4,26,30866,75,229876,7.45,31
+E07000007,Wycombe,Less income deprived,Urban with Significant Rural (rural including hub towns 26-49%),20.40%,20.4,255,0.42,72,7.60%,7.6,249,4,15,14169,84,480487,33.91,27.4
+E07000128,Wyre,n-shape,Largely Rural (rural including hub towns 50-79%) ,37.70%,37.7,84,0.4,84,12.50%,12.5,121,2,20,39369,64,655948,16.66,44.7
+E07000239,Wyre Forest,n-shape,Urban with Significant Rural (rural including hub towns 26-49%),41.40%,41.4,59,0.06,282,12.70%,12.7,113,2,17,45475,52,311044,6.84,48.4
+E06000014,York,Less income deprived,Urban with City and Town,23.60%,23.6,215,0.26,179,7.20%,7.2,259,5,11,46519,45,709068,15.24,30.6
